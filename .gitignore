@@ -1,0 +1,5 @@
+.env
+*.env
+faiss_store.pkl
+stellar-button-400915-577e9793ad1d
+.ipynb_checkpoints/
