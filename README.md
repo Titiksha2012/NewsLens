@@ -4,10 +4,10 @@ NewsLens is a user-friendly news research tool designed for effortless informati
 ![NewsLens](https://github.com/user-attachments/assets/52376fd9-baee-4c33-bb88-cb26c76acb96)
 
 ## Features
-- Load URLs or upload text files containing URLs to fetch article content.
-- Process article content through LangChain's UnstructuredURL Loader
-- Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
-- Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
+- Loads URLs or upload text files containing URLs to fetch article content.
+- Processes article content through LangChain's UnstructuredURL Loader
+- Constructs an embedding vector using Huggingface's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
+- Interacts with the LLM's (Gemini) by inputting queries and receiving answers along with source URLs.
 
 ## Usage/Examples
 - On the sidebar, you can input URLs directly.
