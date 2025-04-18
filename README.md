@@ -20,6 +20,6 @@ NewsLens is a user-friendly news research tool designed for effortless informati
 ## Project Structure
 - main.py: The main Streamlit application script.
 - requirements.txt: A list of required Python packages for the project.
-- faiss_store_openai.pkl: A pickle file to store the FAISS index.
-- .env: Configuration file for storing your OpenAI API key.
+- faiss_store.pkl: The pickle file will be generated once you run the code. (File too large - not added in the repo.)
+- .env: Configuration file for storing the GEMINI API key. (Secret file - not added in the repo.)
 
